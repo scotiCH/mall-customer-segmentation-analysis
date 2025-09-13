@@ -2,7 +2,7 @@
 
 ---
 
-![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange) ![Python](https://img.shields.io/badge/Python-3.13.2-blue) ![Pandas](https://img.shields.io/badge/Pandas-2.1-green) ![Numpy](https://img.shields.io/badge/Numpy-1.26-yellow) ![Scikit](https://img.shields.io/badge/Scikit_learn-1.3.1-black) ![Mat](https://img.shields.io/badge/Matplotlib-3.8.0-white) ![seaborn](https://img.shields.io/badge/seaborn-0.13-blue)
+![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange) ![Python](https://img.shields.io/badge/Python-3.13.2-blue) ![Pandas](https://img.shields.io/badge/Pandas-2.1-blue) ![Numpy](https://img.shields.io/badge/Numpy-1.26-blue) ![Scikit](https://img.shields.io/badge/Scikit_learn-1.3.1-blue) ![Mat](https://img.shields.io/badge/Matplotlib-3.8.0-blue) ![seaborn](https://img.shields.io/badge/seaborn-0.13-blue)
 
 
 
